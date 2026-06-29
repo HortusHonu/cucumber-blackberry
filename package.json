@@ -6,7 +6,7 @@
   "publisher": "HortusHonu",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com"
+    "url": "git+https://github.com/HortusHonu/cucumber-blackberry"
   },
   "engines": {
     "vscode": "^1.100.0"
