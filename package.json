@@ -1,0 +1,22 @@
+{
+  "name": "cucumber-blackberry",
+  "displayName": "Cucumber Blackberry",
+  "description": "A low-fatigue dark theme inspired by LaCroix Cucumber Blackberry.",
+  "version": "0.1.0",
+  "publisher": "HortusHonu",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cucumber Blackberry",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cucumber-blackberry-color-theme.json"
+      }
+    ]
+  }
+}
