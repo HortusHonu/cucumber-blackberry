@@ -4,6 +4,10 @@
   "description": "A low-fatigue dark theme inspired by LaCroix Cucumber Blackberry.",
   "version": "0.1.0",
   "publisher": "HortusHonu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com"
+  },
   "engines": {
     "vscode": "^1.100.0"
   },
